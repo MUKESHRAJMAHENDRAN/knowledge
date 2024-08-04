@@ -1,7 +1,57 @@
 site_name: Mukesh's blog
 # site_url: https://mydomain.org/mysite
+
+repo_name: Kludex/monorepo
+repo_url: https://github.com/Kludex/monorepo
+edit_uri: edit/main/docs/
+extra:
+  social:
+      - icon: fontawesome/brands/twitter
+        link: https://twitter.com/marcelotryle
+
 theme:
   name: material
   logo: assets/python-brands-solid.svg
   palette:
     primary: amber
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    # - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+plugins:
+  - search
+  - blog
+  - tags
+
+nav:
+  - About:
+    - fine_tuning_llm.md
+  - Blog:
+    - blog/index.md
+
+  - Coders world:
+    - index.md 
+    - code: clean_code.md
+    - test: test.md
+    # - Page n: section/page-n.md
+
+# ---
+# hide:
+#   - navigation
+#   - toc
+# ---
+
+# Page title
+# ...
