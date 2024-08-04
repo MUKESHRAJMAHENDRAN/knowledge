@@ -1,6 +1,7 @@
-site_name: knowledge
+site_name: Mukesh's blog
 # site_url: https://mydomain.org/mysite
 theme:
   name: material
+  logo: assets/python-brands-solid.svg
   palette:
     primary: amber
