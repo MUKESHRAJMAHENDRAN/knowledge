@@ -1,16 +1,13 @@
 site_name: Mukesh's blog
 # site_url: https://mydomain.org/mysite
 
-repo_name: Kludex/monorepo
-repo_url: https://github.com/Kludex/monorepo
+repo_name: knowledge
+repo_url: https://github.com/MUKESHRAJMAHENDRAN/knowledge
 edit_uri: edit/main/docs/
-extra:
-  social:
-      - icon: fontawesome/brands/twitter
-        link: https://twitter.com/marcelotryle
 
 theme:
   name: material
+  favicon: assets/python-brands-solid.svg
   logo: assets/python-brands-solid.svg
   palette:
     primary: amber
@@ -30,6 +27,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+
 plugins:
   - search
   - blog
@@ -37,16 +35,27 @@ plugins:
 
 nav:
   - About:
-    - fine_tuning_llm.md
+    - index.md
+    # - about.md
   - Blog:
     - blog/index.md
 
   - Coders world:
-    - index.md 
     - code: clean_code.md
     - test: test.md
     # - Page n: section/page-n.md
 
+extra:
+  social:
+      - icon: fontawesome/brands/twitter
+        link: https://x.com/mukeshmahendran
+      - icon: fontawesome/brands/github
+        link: https://github.com/MUKESHRAJMAHENDRAN
+      - icon: fontawesome/brands/kaggle
+        link: https://www.kaggle.com/mukeshrajm
+      - icon: fontawesome/solid/pen
+        link: https://datasherlock.blogspot.com/
+      # -
 # ---
 # hide:
 #   - navigation
