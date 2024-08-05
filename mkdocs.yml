@@ -40,9 +40,9 @@ nav:
   - Blog:
     - blog/index.md
 
-  - Coders world:
-    - code: clean_code.md
-    - test: test.md
+  # - Coders world:
+  #   - code: clean_code.md
+  #   - test: test.md
     # - Page n: section/page-n.md
 
 extra:

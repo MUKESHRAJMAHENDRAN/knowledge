@@ -2,24 +2,57 @@
 hide:
   - navigation
 ---
-# About me
+<!-- # Meet me -->
+
+<style>
+  .circular-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px; /* Increase the size of the image */
+    height: 300px; /* Increase the size of the image */
+    border-radius: 50%;
+    overflow: hidden;
+    /* border: 1px solid #000; Reduce the border thickness */
+  }
+</style>
 
 <p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/7353520?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="The FastAPI Expert"/>
-  <p align="center">I'm Marcelo Trylesinski, nice to meet you! 👋</p>
+  <img src="https://raw.githubusercontent.com/MUKESHRAJMAHENDRAN/knowledge/main/images/Mukesh.jpeg" alt="AI Engineer" class="circular-image"/>
 </p>
 
-Bio
-Data Scientist at Cubera with expertise in Python, Postgres, Pandas, NumPy, Scikit-learn, Fastai, TensorFlow, PyTorch, Quarto, and FastAPI.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Mukesh Nice to meet you!!</h1>
+<br />
 
-Currently a Kaggle Notebook Expert, trying to improve my skills with kaggle community. Skilled in extracting insights from complex datasets and developing scalable machine learning solutions. Committed to innovation, continuous learning, and driving impactful insights.
+I'm a self-taught passionate data scientist from India 🇮🇳
 
-Education
-Kumaguru college of technology | Computer Science Engineering | Jul 2014 - April 2018
+**About me**
 
-IIT-M Advanced Programming & Master DataScience | Guvi | Jul 2021 - Dec 2021
+- 💼 Ex Data Scientist at [Cubera](https://cubera.co/). Currently AI Engineer at [Visionet](https://www.visionet.com/)
+ 
+- 📝  I will write a [blog](https://datasherlock.blogspot.com/) about  ``` topics = [ "Python", "Data Exploration", "Data visualization", "Feature Engineering", "Machine learning", Deep learning, Generative AI] ```
+  
+- I am currently [kaggle notebook expert](https://www.kaggle.com/mukeshrajm) trying to improve my skill with the kaggle community.
+  
+- 💬 Ask me about anything [here](https://github.com/MUKESHRAJMAHENDRAN/knowledge/issues).
+  
+-  ❤️ I love writing code, learn new things and implementing it. Love to contribute to Open Source, but in Initial Struggle of contribution once it done will explain the path of getting there.
 
-Experience
-Cubera | Data Scientist | Aug 2022 - present
 
-Freelance| Data Scientist | Jan - Jul 2022
+**Education** 
+
+    - Kumaguru college of technology | Computer Science Engineering | Jul 2014 - April 2018
+    - IIT-M Advanced Programming & Master DataScience | Guvi | Jul 2021 - Dec 2021
+
+**Experience**
+
+    - Visionet | AI Engineer | Oct 2023 - present
+    - Cubera | Data Scientist | Aug 2022 - oct 2023
+    - Freelance| Data Scientist | Jan - Jul 2022
+
+<div class="social-badges">
+  <a href="https://twitter.com/@mukeshmahendran" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mukeshmahendran?logo=twitter&style=for-the-badge" alt="@mukeshmahendran" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mukeshrajmahendran.github.io.knowledge" alt="visitors" />
+</div>
