@@ -10,7 +10,7 @@ theme:
   favicon: assets/python-brands-solid.svg
   logo: assets/python-brands-solid.svg
   palette:
-    primary: amber
+    primary: deep purple
   features:
     - navigation.instant
     - navigation.instant.progress

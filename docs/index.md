@@ -2,7 +2,7 @@
 hide:
   - navigation
 ---
-<!-- # Meet me -->
+# Meet me
 
 <style>
   .circular-image {
