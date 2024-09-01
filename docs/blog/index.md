@@ -1,3 +1,2 @@
-# Blog
-blogers world
+<!-- # Let's understand tech -->
 
